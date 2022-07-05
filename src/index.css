@@ -1,0 +1,79 @@
+body,html {
+  margin: 0;
+  padding:0;
+  font-family: "minecrafterregular",-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+div.content {
+  margin-top: 10px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.row{
+  text-align: center;
+}
+header{
+  background-color: darkgray;
+  padding: 15px 35px;
+  text-align: center;
+}
+h1 {
+  color: white;
+}
+h4 {
+  color: #777;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: "minecrafterregular",-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+.emValue{
+  font-family: "minecrafterregular",-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-size: 5em;
+}
+.emValue span{
+  font-size: 1.5rem;
+  color: gray;
+}
+.MuiSelect-select{
+  color:black;
+}
+.content .InventoryOption{
+  margin-top: 10px;
+}
+.content .MuiButton-root.Mui-disabled{
+  background-color:transparent;
+}
+.content .MuiButton-root{
+  min-width: 56px;
+  padding: 16px 7px;
+  background-color:darkslategray;
+}
+div.content .check{
+  font-size: 2em;
+  line-height: 20px;
+  color:green;
+}
+div.content .check.red{
+  color:red;
+}
+.row.addRow{
+  margin-top: 10px;
+}
+.row.addRow .MuiButton-root{
+  width: 100%;
+}
+.emValue.remaining{
+  color:forestgreen;
+}
