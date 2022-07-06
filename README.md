@@ -2,6 +2,10 @@
 <img src="./thumbnails/v1.0.png" alt="drawing"/>
 
 
+# Minecraft Trade Calculator v1.0
+
+Live version at: http://minecrafttrade.new.creativefixmedia.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
